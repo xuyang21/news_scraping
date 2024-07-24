@@ -1,5 +1,5 @@
-venv/
-llm/baidu/generate/
+venv/*
+llm/baidu/generate/*
 llm/baidu.meta.txt
-text2speech/edge_tts/generate/
-news_material/washington_post/generate/
+text2speech/edge_tts/generate/*
+news_material/washington_post/generate/*
